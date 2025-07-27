@@ -32,7 +32,7 @@ El objetivo de este estudio fue evaluar el comportamiento estadístico de las pu
   * 03\_plots\_tables.R
   * 04\_visualizations.R
 
-* Material suplementario
+* Material suplementario (Trace & Density plots)
 
   ### Requisitos
 
