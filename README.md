@@ -27,11 +27,10 @@ El objetivo de este estudio fue evaluar el comportamiento estadístico de las pu
 
   * 01\_libraries\_preprocess.R
   * 02\_data\_analysis.R
-  * 02\_1\_cross\_validation.R
-  * 02\_2\_generate\_norms.R
-  * 03\_plots\_tables.R
-  * 04\_visualizations.R
-
+  * 03\_cross\_validation.R
+  * 04\_generate\_norms.R
+  * 05\_plots\_tables.R
+  
 * Material suplementario (Trace & Density plots)
 
   ### Requisitos
