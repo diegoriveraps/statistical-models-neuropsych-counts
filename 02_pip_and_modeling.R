@@ -1,4 +1,5 @@
 # =============================================================================
+# Script: 02_pip_modeling.R
 # Project: Linear and Generalized Linear Models with Poisson Distribution 
 #          Applied to Count Data in Neuropsychology: A Comparative Analysis
 # Author: Diego Rivera
